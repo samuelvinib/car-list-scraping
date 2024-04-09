@@ -1,0 +1,6 @@
+Flask
+requests
+Flask-SQLAlchemy
+selenium
+webdriver-manager
+mysqlclient
