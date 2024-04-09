@@ -89,6 +89,7 @@ class Scrape:
                 "codigo_fipe": objeto['Código Fipe:'],
                 "preco_medio": float(price)
             }
+            print("Carro adicionado:")
             print(data)
             return data
         except Exception as e:
