@@ -7,7 +7,7 @@ Desenvolvimento de um web scraping para buscar 10 veículos aleatórios no site 
 
 ## Instalação do projeto
 
-Para rodar este projeto em sua máquina, é necessário ter o Python 3 e o pip instalados.
+Para rodar este projeto em sua máquina, é necessário ter o Python 3, pip e o mozzila firefox instalados.
 
 ### Conexão com banco de dados:
 
